@@ -1,0 +1,4 @@
+mkdir friday
+cd friday
+touch timetable.txt
+nano timetable.txt
